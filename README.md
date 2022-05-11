@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raviindorey
-- 👀 I’m interested in working on Django / Django REST / Flask / React / Serverless projects.
-- 🌱 I’m currently learning GraphQL.
+- 👀 I’m interested in working on Django / Django REST / Flask / React / Vue / DevOps Serverless projects.
+- 🌱 I’m currently working as a Senior Full Stack Developer.
 - 📫 Email me on [ravi.indorey90@gmail.com](mailto:ravi.indorey90@gmail.com)
 <!--- 💞️ I’m looking to collaborate on --->
 
